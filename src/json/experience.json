@@ -1,0 +1,61 @@
+[
+  {
+    "company": "@The Crypto TDLR",
+    "dates": "October 2021 - December 2021",
+    "position": "Crypto Research",
+    "copy": "At The Crypto TDLR, I gathered information from several articles,websites etc and rephrased it into new article. Articles , websites are on Social Media and are topics related to Blockchain, Web3 and Crypto.",
+    "jobFeatures": [
+      "Blockchain",
+      "Crypto",
+      "Web3",
+      "Crypto Mining"
+    ],
+    "open": true
+  },
+  {
+    "company": "@SRM University AP",
+    "dates": "June 2021 - December 2021",
+    "position": "Blockchain Developer Intern",
+    "copy": " I worked as a research intern for the topic Supply chain management using Blockchain and loT. Published research paper on topic 'Global Vaccination tracking system using Blockchain and loT' in 7th IEEE International Symposium on Smart Electronic Systems (iSES). IEEE link of paper: https://ieeexplore.ieee.org/document/9701039",
+    "jobFeatures": [
+      "Blockchain",
+      "Ethereum",
+      "Covid19",
+      "Vaccine",
+      "IoT",
+      "Supply Chain",
+      "Solidity"
+    ],
+    "open": false
+  },
+  {
+    "company": "@Chain Labs",
+    "dates": "October 2021 - November 2021",
+    "position": "Solidity Intern",
+    "copy": "Developed smart contracts based on Ethereum for the minting of NFTs in the marketplace. Created Whitelist Smartcontracts Worked on Web3.js for connecting frontend with smart contracts.",
+    "jobFeatures": [
+      "Solidity",
+      "Node",
+      "NFT",
+      "Ethereum",
+      "React",
+      "JavaScript",
+      "Web3"
+    ],
+    "open": false
+  },
+  {
+    "company": "@HOP Chain",
+    "dates": "August 2021 - October 2021",
+    "position": "Blockchain Development Intern",
+    "copy": "Built a blockchain network on HOP using Go-Ethereum. Worked as a miner and deployed over 1000 nodes on the HOP chain. Developed some pools to deploy the nodes using JavaScript. ",
+    "jobFeatures": [
+      "Ethereum",
+      "Go",
+      "Blockchain",
+      "JavaScript",
+      "Linux"
+    ],
+    "open": false
+  }
+]
