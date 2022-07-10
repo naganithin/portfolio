@@ -3,7 +3,7 @@ module.exports = {
     title: `Naga Nithin G - Blockchain Developer`,
     description: `Deep dived into Blockchain, Crypto and Web3.`,
     author: `@naganithing`,
-    url: `https://cade.codes`,
+    url: `https://naganithin.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
